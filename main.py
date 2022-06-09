@@ -11,13 +11,14 @@ def print_hi(name):
     print('git branch new_name')
 
     print('bblbl')
-    print('vhdbvjfdk)
+    print('vhdbvjfdk')
     print('BLABALA')
     print('git branch new_name')
     print('BLABALA')
     print('git branch new_name')
     print('BLABALA')
     print('git branch new_name')
+    print('sdffsd')
 
 
 # Press the green button in the gutter to run the script.
