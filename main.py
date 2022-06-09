@@ -9,6 +9,9 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
     print('BLABALA')
     print('git branch new_name')
+
+    print('bblbl')
+    print('vhdbvjfdk)
     print('BLABALA')
     print('git branch new_name')
     print('BLABALA')
